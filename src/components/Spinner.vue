@@ -1,0 +1,9 @@
+<template>
+  <b-loading>
+    <b-icon
+      icon="sync-alt"
+      size="is-large"
+      custom-class="fa-spin">
+    </b-icon>
+  </b-loading>
+</template>
